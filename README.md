@@ -45,18 +45,23 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer loka
    cd NAMA_REPO_ANDA
 
 # Instal library PHP
+```bash
 composer install
 
 # Instal library Frontend
+```bash
 npm install
 
 # Salin file environment
+```bash
 cp .env.example .env
 
 # Generate kunci aplikasi
+```bash
 php artisan key:generate
 
 # Persiapan Database
+```bash
 php artisan migrate
 
 ---
