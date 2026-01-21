@@ -1,5 +1,7 @@
 # 🎥 Multimedia Specialist Profile
 
+# 🎥 Multimedia Specialist Profile
+
 Selamat datang di repositori profil profesional saya! Proyek ini dikembangkan menggunakan **Laravel 11** untuk mendemonstrasikan keahlian saya dalam integrasi pengembangan web dan desain multimedia.
 
 ---
@@ -7,7 +9,7 @@ Selamat datang di repositori profil profesional saya! Proyek ini dikembangkan me
 ## 🚀 Fitur Utama
 - **Gallery Portofolio**: Ruang pamer untuk karya desain dan video terbaik.
 - **Dynamic Projects**: Manajemen data proyek melalui sistem database yang terstruktur.
-- **Responsive Layout**: Antarmuka yang ramah pengguna, baik di desktop maupun perangkat mobile.
+- **Responsive Layout**: Antarmuka yang ramah pengguna di berbagai perangkat.
 - **Laravel Backend**: Menggunakan arsitektur MVC untuk performa yang optimal.
 
 ---
@@ -37,16 +39,10 @@ Berikut adalah cuplikan antarmuka dari aplikasi profil ini:
 ## ⚙️ Panduan Pemasangan (Cara Menjalankan)
 Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer lokal Anda:
 
-### 1. Persyaratan Sistem
-Pastikan Anda sudah menginstal:
-- PHP >= 8.2
-- Composer
-- Node.js & NPM
-
-### 2. Clone Repository
-```bash
-git clone [https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
-cd NAMA_REPO_ANDA
+1. **Clone Repository**
+   ```bash
+   git clone [https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
+   cd NAMA_REPO_ANDA
 
 # Instal library PHP
 composer install
