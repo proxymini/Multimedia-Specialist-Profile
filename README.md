@@ -36,36 +36,6 @@ Berikut adalah cuplikan antarmuka dari aplikasi profil ini:
 
 ---
 
-## ⚙️ Panduan Pemasangan (Cara Menjalankan)
-Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer lokal Anda:
-
-1. **Clone Repository**
-   ```bash
-   git clone [https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
-   cd NAMA_REPO_ANDA
-
-# Instal library PHP
-```bash
-composer install
-
-# Instal library Frontend
-```bash
-npm install
-
-# Salin file environment
-```bash
-cp .env.example .env
-
-# Generate kunci aplikasi
-```bash
-php artisan key:generate
-
-# Persiapan Database
-```bash
-php artisan migrate
-
----
-
 ## 📞 Kontak & Media Sosial
 | Platform | Detail |
 | :--- | :--- |
